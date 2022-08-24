@@ -1,0 +1,46 @@
+#boxDiv {
+  display: flex;
+  border-bottom: 1px solid;
+  width: 800px;
+}
+
+#boxDiv > div{
+  margin: 10px;
+}
+
+#divDate {
+  width: 110px;
+}
+
+#divText {
+  width: 200px;
+}
+
+#divOption {
+  width: 50px;
+}
+
+#divCashAmount {
+  width: 200px;
+}
+
+.income {
+  color: rgb(0, 238, 8);
+}
+
+.expense {
+  color: red;
+}
+
+#budgetSpace {
+  height: 40px;
+  font-size: 20px;
+}
+
+p {
+  font-size: 20px;
+}
+
+.deliBtn {
+  vertical-align: middle
+}
